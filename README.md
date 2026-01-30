@@ -7,7 +7,7 @@ The file `paper-template.tex` should be used as a template for a student paper s
 cp paper-template.tex LASTNAME_FIRSTNAME_paper.tex
 ```
 
-The template is based on the latest SIAM article class, which is detailed here: [https://www.siam.org/Publications/Journals/About-SIAM-Journals/Information-for-Authors](https://www.siam.org/Publications/Journals/About-SIAM-Journals/Information-for-Authors).  The paper should conform to the SIAM documentclass as outlined here: [https://epubs.siam.org/pb-assets/macros/standard/docsiamart.pdf](https://epubs.siam.org/pb-assets/macros/standard/docsiamart.pdf).
+The template is based on the latest SIAM article class, which is detailed here: [https://epubs.siam.org/journal-authors#macros](https://epubs.siam.org/journal-authors#macros).  The paper should conform to the SIAM documentclass as outlined here: [https://epubs.siam.org/pb-assets/macros/standard/docsiamart.pdf](https://epubs.siam.org/pb-assets/macros/standard/docsiamart.pdf).
 
 To obtain SIAM article class, download `siamart251216.cls` at the link [https://epubs.siam.org/pb-assets/macros/standard/siamart251216.cls](https://epubs.siam.org/pb-assets/macros/standard/siamart251216.cls).
 
