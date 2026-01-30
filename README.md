@@ -9,15 +9,9 @@ cp paper-template.tex LASTNAME_FIRSTNAME_paper.tex
 
 The template is based on the latest SIAM article class, which is detailed here: [https://www.siam.org/Publications/Journals/About-SIAM-Journals/Information-for-Authors](https://www.siam.org/Publications/Journals/About-SIAM-Journals/Information-for-Authors).  The paper should conform to the SIAM documentclass as outlined here: [https://epubs.siam.org/pb-assets/macros/standard/docsiamart.pdf](https://epubs.siam.org/pb-assets/macros/standard/docsiamart.pdf).
 
-To obtain SIAM article class, download `siamart220329.cls` at the link [https://epubs.siam.org/pb-assets/macros/standard/siamart220329.cls](https://epubs.siam.org/pb-assets/macros/standard/siamart220329.cls) or by
-```bash
-wget https://epubs.siam.org/pb-assets/macros/standard/siamart220329.cls
-```
+To obtain SIAM article class, download `siamart251216.cls` at the link [https://epubs.siam.org/pb-assets/macros/standard/siamart251216.cls](https://epubs.siam.org/pb-assets/macros/standard/siamart251216.cls).
 
-In addition, obtain the SIAM bibliographic style file `siamplain.bst` at the link [https://epubs.siam.org/pb-assets/macros/standard/siamplain.bst](https://epubs.siam.org/pb-assets/macros/standard/siamplain.bst) or by
-```bash
-wget https://epubs.siam.org/pb-assets/macros/standard/siamplain.bst
-```
+In addition, obtain the SIAM bibliographic style file `siamplain.bst` at the link [https://epubs.siam.org/pb-assets/macros/standard/siamplain.bst](https://epubs.siam.org/pb-assets/macros/standard/siamplain.bst).
 
 Next, be sure to follow the specific steps below, including the writing guidelines.  The numbering can be found in the comments of `paper-template.tex`.
 
